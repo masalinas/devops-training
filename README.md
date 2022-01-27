@@ -1,2 +1,2 @@
 # devops-training
-A devops Training V6.0
+A devops Training V7.0
